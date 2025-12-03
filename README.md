@@ -1,0 +1,1 @@
+Este é um projeto que desenvolvi para a disciplina de **Programação Orientada a Objetos** utilizando Java. Ele é um simples tradutor para palavras da área de informática, traduz algumas palavras dos idiomas inglês e espanhol para português. Utilizo arquivos CSV como base de dados e swing para a interface gráfica.
